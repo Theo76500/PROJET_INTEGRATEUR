@@ -18,18 +18,7 @@ int compteur = 0;
 // MOTOR2 = Roue droite
 */
 
-String primaryPath[] = {"AB","AF","AD","BA","BC","CB","CD","CK","DC","DE","DA","ED","EF","FA","FE","FG","GF","GJ","GH","HG","HI","IH","IJ","IP","JG","JG","JK","JL","KC","KJ","KN","LJ","LM","ML","MO","NK","NO","ON","OP","PO","PI"};
-String listTotal1[4];
-String listTotal2[4];
-const int totalSize = 1;
 
-typedef struct {
-  String list[4];
-} ArrayReturn;
-
-typedef struct {
-  String list[totalSize];
-} ArrayTotal;
 
 void setup() {
   /*Motor.begin(I2C_ADDRESS);
