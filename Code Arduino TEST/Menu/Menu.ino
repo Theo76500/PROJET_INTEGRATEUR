@@ -37,6 +37,12 @@ void setup() {
   Serial.begin(9600);
 }
 void loop() {
+  if (pathFinding("A","K")) {
+    Serial.println("done !");
+  }
+  else {
+    pathFinding("A","K");
+  }
 /*
   Serial.print(digitalRead(left)); 
   Serial.print(digitalRead(middleL));
