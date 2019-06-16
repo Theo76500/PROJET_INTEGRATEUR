@@ -30,9 +30,9 @@ void setup() {
   pinMode(yellow, OUTPUT);
   pinMode(blue, OUTPUT);
 */
-  pathFinding("A", "O");
-  
   Serial.begin(9600);
+  Path = pathFinding("I","O");
+  Serial.println(Path);
 }
 void loop() {
 
