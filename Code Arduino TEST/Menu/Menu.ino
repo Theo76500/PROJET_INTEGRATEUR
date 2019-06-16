@@ -18,8 +18,6 @@ int compteur = 0;
 // MOTOR2 = Roue droite
 */
 
-
-
 void setup() {
   /*Motor.begin(I2C_ADDRESS);
   pinMode(left, INPUT);
@@ -32,17 +30,12 @@ void setup() {
   pinMode(yellow, OUTPUT);
   pinMode(blue, OUTPUT);
 */
-  pathFinding("A", "K");
+  pathFinding("A", "O");
   
   Serial.begin(9600);
 }
 void loop() {
-  if (pathFinding("A","K")) {
-    Serial.println("done !");
-  }
-  else {
-    pathFinding("A","K");
-  }
+
 /*
   Serial.print(digitalRead(left)); 
   Serial.print(digitalRead(middleL));
