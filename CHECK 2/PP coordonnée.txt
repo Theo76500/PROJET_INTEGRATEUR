@@ -1,0 +1,23 @@
+Entre 1 et 2 = 90 pp = 2.1
+Entre 1 et 4 = 74 pp = 1.7
+Entre 1 et 6 = 194 pp = 4.5
+Entre 3 et 11 = 90 pp = 2.1
+Entre 4 et 5 = 194 pp = 4.5
+Entre 6 et 7 = 88 pp = 2.0
+Entre 7 et 8 = 58 pp = 1.3
+Entre 9 et 16 = 110 pp = 2.5
+Entre 10 et 9 = 58 pp = 1.3
+Entre 10 et 7 = 158 pp = 3.7
+Entre 10 et 12 = 40 pp = 0.9
+Entre 11 et 14 = 110 pp = 2.5
+Entre 13 et 15 = 62 pp = 1.4
+Entre 13 et 12 = 280 pp = 6.5
+Entre 14 et 15 = 90 pp = 2.1 
+Entre 15 et 16 = 340 pp = 7.9
+
+LONGUEUR = 430 pp = /10=43 pp
+LARGEUR = 290 pp
+
+43 pp = 1 unité
+LONUGEUR EN UNITE = 9.9
+LARGEUR EN UNITE = 6.2
