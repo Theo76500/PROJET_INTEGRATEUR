@@ -1,3 +1,3 @@
-# JPU-BlankProject
+#JAVA
 
-Base de démarrage pour le projet Jave/POO/UML des 1ières années Exia-Cesi
+C'est pour le projet
